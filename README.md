@@ -6,7 +6,6 @@ Collection
     - LinkedList : 목록 끝에 원소를 변경할떄 쉬베 제거 할 수 있는 메소드를 제공하는 List
     - ArrayList : 속도가 빠르고 크기가 고정값이 아니며, 사용자가 원하는만큼 크기를 조절할 수 있다.
     - Vector : ArrayList의 예전버전
-    - Stack
   - Set
     - HashSet : Object가 순서 상관 없이 저장되고 중복이 되지 않는다.
     - SortedSet(TreeSet) : 정렬 방법을 설정할 수 있다.
